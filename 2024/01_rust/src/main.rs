@@ -4,6 +4,6 @@ fn main() {
     read_file();
 }
 
-fn read_file(){
-   // Read file and append to list 
+fn read_file() {
+    // Read file and append to list
 }
