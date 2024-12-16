@@ -7,3 +7,6 @@ target/
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+# Saved output file
+debug_out.txt
